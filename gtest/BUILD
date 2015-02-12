@@ -7,3 +7,8 @@ cc_library(
     name = 'gtest_main',
     deps = ['//thirdparty/gtest-1.7.0/:gtest_main']
 )
+
+cc_test(
+    name = 'gtest_test',
+    srcs = 'gtest_test.cc'
+)
