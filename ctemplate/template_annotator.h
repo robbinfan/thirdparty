@@ -1,1 +1,1 @@
-#include "thirdparty/ctemplate-2.3/template_annotator.h"
+#include "thirdparty/ctemplate-2.3/src/ctemplate/template_annotator.h"
