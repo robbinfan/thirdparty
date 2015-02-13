@@ -1,1 +1,1 @@
-#include "thirdparty/rapidjson/encodings.h"
+#include "thirdparty/rapidjson-0.11/encodings.h"

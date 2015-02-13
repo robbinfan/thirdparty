@@ -1,1 +1,1 @@
-#include "thirdparty/rapidjson/encodedstream.h"
+#include "thirdparty/rapidjson-0.11/encodedstream.h"

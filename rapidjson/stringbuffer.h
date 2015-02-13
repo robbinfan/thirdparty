@@ -1,1 +1,1 @@
-#include "thirdparty/rapidjson/stringbuffer.h"
+#include "thirdparty/rapidjson-0.11/stringbuffer.h"

@@ -1,1 +1,1 @@
-#include "thirdparty/rapidjson/document.h"
+#include "thirdparty/rapidjson-0.11/document.h"

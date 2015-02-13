@@ -1,1 +1,1 @@
-#include "thirdparty/rapidjson/internal/strfunc.h"
+#include "thirdparty/rapidjson-0.11/internal/strfunc.h"

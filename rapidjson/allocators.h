@@ -1,1 +1,1 @@
-#include "thirdparty/rapidjson/allocators.h"
+#include "thirdparty/rapidjson-0.11/allocators.h"

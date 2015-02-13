@@ -1,1 +1,1 @@
-#include "thirdparty/rapidjson/internal/stack.h"
+#include "thirdparty/rapidjson-0.11/internal/stack.h"
